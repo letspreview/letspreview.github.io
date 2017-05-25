@@ -1,0 +1,10 @@
+# People who have agreed to one of the CLAs and can contribute patches.
+# The AUTHORS file lists the copyright holders; this file
+# lists people.  For example, Salte employees are listed here
+# but not in AUTHORS, because Salte holds the copyright.
+#
+# Names should be added to this file as:
+#     Name <email address>
+
+Nick Woodward <nick@salte.io>
+Dave Woodward <dave@salte.io>
